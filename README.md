@@ -1,3 +1,5 @@
+![Logo](https://github.com/StxGuy/TenaciousTensors/blob/main/TTensors.svg)
+
 # TenaciousTensors
 Fortran library for multilinear algebra.
 
