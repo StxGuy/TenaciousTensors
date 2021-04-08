@@ -1,6 +1,7 @@
+# TenaciousTensors
+
 ![Logo](https://github.com/StxGuy/TenaciousTensors/blob/main/TTensors.svg)
 
-# TenaciousTensors
 Fortran library for multilinear algebra.
 
     
@@ -17,7 +18,7 @@ Fortran library for multilinear algebra.
         year         = 2021,
         version      = {1.0},
         publisher    = {GitHub},
-        url          = {https://github.com/StxGuy/NobleNeuron}
+        url          = {https://github.com/StxGuy/TenaciousTensors}
         }
         
 ## License
