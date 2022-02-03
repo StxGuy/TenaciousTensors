@@ -1,6 +1,8 @@
 #ifndef TENACIOUS_TENSOR
 #define TENACIOUS_TENSOR
 
+#include <iostream>
+
 class tensor {
     private:
         unsigned int mem_size;
