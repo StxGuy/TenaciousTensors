@@ -4,6 +4,7 @@ TARGET = TenaciousTensor
 CPP_SOURCE =	./source/base.cpp \
 		./source/operators.cpp \
 		./source/convolution.cpp \
+		./source/activ.cpp \
 
 # Include files
 INCLUDE = ./include \
