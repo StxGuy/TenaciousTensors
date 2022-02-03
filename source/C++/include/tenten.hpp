@@ -61,6 +61,9 @@ class tensor {
         void dX(const tensor &, const tensor &, const tensor &);
         
         void grad_update(const tensor &, float);
+        
+        tensor activate(string);
+        tensor deactivate(string);
 };
 
 #endif
